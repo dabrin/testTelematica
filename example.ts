@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Hola esto es una prueba soy Vale
 <<<<<<< HEAD
 Hola soy JORGE Mena
@@ -7,3 +8,6 @@ Melany
 >>>>>>> faf0d31531ce7dc33a2591940ba71bafe806646e
 lyfoutc itououuy
 creo que no
+=======
+hola
+>>>>>>> Stashed changes
